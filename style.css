@@ -7,6 +7,7 @@
   font-family: "Young Serif";
   src: url("assets/fonts/young-serif/YoungSerif-Regular.ttf");
 }
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap");
 :root {
   /* Colors */
   --White: hsl(0, 0%, 100%);
